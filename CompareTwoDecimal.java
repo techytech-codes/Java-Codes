@@ -1,7 +1,3 @@
-//Write a program to input any character and check
-//whether it is alphabet
-//digit or special character
-
 import java.util.Scanner;
 
 public class CompareTwoDecimal {
